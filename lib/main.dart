@@ -13,7 +13,7 @@ class HelloWorld extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(title: const Text("Hello World App")),
         bottomNavigationBar: Row(spacing: 4, children: [Text("menu")]),
-        body: const SafeArea(child: Center(child: Text("Hello world cringe"))),
+        body: const SafeArea(child: Center(child: Text("whatttt"))),
       ),
     );
   }
